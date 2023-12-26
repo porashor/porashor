@@ -1,7 +1,7 @@
 # Hi there 👋I'm Parashar Das
 ### A propessional front-end web developer
-src=''
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://scontent.fcla2-1.fna.fbcdn.net/v/t39.30808-6/341610818_764705328429729_710495329261321101_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=9534ce&_nc_eui2=AeEB8EEDREIlAgfIYdYV3pxqt0TjlDcr6Mm3ROOUNyvoyVN55oah8AciOd0rOAnvq_8DpFRfvTDFI5FgWJOl65xm&_nc_ohc=dwrnwtwjXZEAX-zkp73&_nc_zt=23&_nc_ht=scontent.fcla2-1.fna&oh=00_AfBTprIN3cMsB6a3N5KodDLKZyVSbJGKede6Sc4s72FWzw&oe=658EA016)?raw=true)
+
+![alt text](https://scontent.fcla2-1.fna.fbcdn.net/v/t1.6435-9/172120861_102659221950441_7595734938926505294_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=2be8e3&_nc_eui2=AeEEQCs86ArQHgROTzbEf4NnGgI0Q275PoYaAjRDbvk-hkjPjihKs_ks2DfP9Q1cU80XPBFwrCpvq-UanN7P89a2&_nc_ohc=G4Go2yYOQWUAX9LUy_M&_nc_ht=scontent.fcla2-1.fna&oh=00_AfAB58civjxhlMLmXMohCmSv41JG0FpFlEGIo3aRo2CAQQ&oe=65B21D5B?raw=true)
 
 **porashor/porashor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
